@@ -1,6 +1,6 @@
 # Hotel Reservation System
 
-A simple Hotel Reservation System built using Java as part of job training. This project allows users to find and reserve hotel rooms, manage customer data, and view existing reservations through a command-line interface.
+A simple Hotel Reservation System built using Java. This project allows users to find and reserve hotel rooms, manage customer data, and view existing reservations through a command-line interface.
 
 ## Features
 
